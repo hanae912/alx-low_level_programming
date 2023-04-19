@@ -34,7 +34,7 @@ else
 {
 putchar(name[i]);
 }
-i++;
+1++;
 }
 }
 
@@ -50,4 +50,3 @@ print_name("Bob Dylan", print_name_uppercase);
 printf("\n");
 return (0);
 }
-
